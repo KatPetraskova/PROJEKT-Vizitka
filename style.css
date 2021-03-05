@@ -25,7 +25,7 @@ h1 {
 .body {
     font-family: 'Nunito', sans-serif;
     font-size: 18px;
-    background-color:#9EAEBC;
+    background-color:#b2bec3;
 }
 
 .foto {
@@ -76,6 +76,7 @@ h1 {
 }
 
 .box {
+    box-sizing: border-box;
     width: 550px;
     margin: auto;
     margin-top: 150px;
